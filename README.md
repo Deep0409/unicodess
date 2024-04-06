@@ -39,11 +39,3 @@ Measure the efficiency of your code in Big O notation using `Time Complexity` an
 3. Run `npm run dev`
 
 -----------------------------------------------------------------------------------------------------------
-
-## Learn more about Figstack
-
-Check out our [website](https://figstack.com) or contact us at [hi@mintlify.com](mailto:hi@mintlify.com)
-
-[Community](https://discord.gg/AadQyUaMaq)
-[Twitter](https://twitter.com/mintlify)
-[LinkedIn](https://www.linkedin.com/company/mintsearch)
